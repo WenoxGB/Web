@@ -1,0 +1,2 @@
+- [ ] Add media query for screens <= 768px (tablets): Reduce font sizes for #click-text, h1, p; decrease padding for .profile-embed and .links a; adjust .pfp size.
+- [ ] Add media query for screens <= 480px (phones): Further reduce sizes for better fit on small screens.
